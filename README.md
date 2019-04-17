@@ -1,4 +1,4 @@
-<h1> Agendamento de processos - HangFire</h1>
+<h1> Agendamento de processos em 2° Plano - HangFire</h1>
 <h3>Por: Jarson Oliveira</h3>
 </hr>
  <h5>Api que atualiza a cada minuto a cotação do dolar.</h5>
